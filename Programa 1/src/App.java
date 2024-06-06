@@ -87,4 +87,8 @@ class Bulbasaur{
     public void Drenadoras(){
         System.out.println("Drenadoras = inflinge 10 puntos de daño a su rival y la mitad la usara Bulbasaur para regenerar pts. de vida");
     }
+    public void Gruñido(){
+        System.out.println("Gruñido = debilita el ataque de su rival");
+    }
+    
 }
