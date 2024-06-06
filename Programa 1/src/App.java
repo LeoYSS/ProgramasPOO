@@ -87,8 +87,10 @@ class Bulbasaur{
     public void Drenadoras(){
         System.out.println("Drenadoras = inflinge 10 puntos de daño a su rival y la mitad la usara Bulbasaur para regenerar pts. de vida");
     }
-    public void Gruñido(){
+    public void Grunido(){
         System.out.println("Gruñido = debilita el ataque de su rival");
     }
-    
+    public void PolvoVeneno(){
+        System.out.println("Polvo veneno = su rival pierde 6.25% de vida y cada 4 turnos su rival pierde 1 punto de vida"); 
+    }
 }
