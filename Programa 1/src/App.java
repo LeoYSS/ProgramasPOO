@@ -84,4 +84,7 @@ class Bulbasaur{
     public void Placaje(){
         System.out.println("Placaje = baja 10 puntos de vida a su rival");
     }
+    public void Drenadoras(){
+        System.out.println("Drenadoras = inflinge 10 puntos de daño a su rival y la mitad la usara Bulbasaur para regenerar pts. de vida");
+    }
 }
