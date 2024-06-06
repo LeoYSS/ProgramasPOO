@@ -74,3 +74,14 @@ class Squirtle{
         System.out.println("Refugio Withdraw = aumenta la resistencia en un 15%");
     }
 }
+
+class Bulbasaur{
+    protected String tipo = "Planta/Veneno";
+    protected String pokemon = "Semilla";
+    protected String color = "Verde con manchas oscuras";
+    protected String evolucion = "Ivysaur y Venusaur";
+
+    public void Placaje(){
+        System.out.println("Placaje = baja 10 puntos de vida a su rival");
+    }
+}
